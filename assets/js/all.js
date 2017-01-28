@@ -1,0 +1,1 @@
+!function(n){"use strict";n(document).ready(function(){n(".navbar-toggle, .close-menu-button").click(function(){n(".navbar").toggleClass("active")}),n(window).resize(function(){n(window).width()>767&&n(".navbar").removeClass("active")})})}(jQuery);
